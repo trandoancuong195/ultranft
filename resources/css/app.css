@@ -1,0 +1,33 @@
+@import "resources/assets/css/templatemo-seo-dream.css";
+
+footer .social {
+    overflow: hidden;
+    text-align: right;
+}
+
+footer .social li {
+    margin: 0px 5px;
+    display: inline-block;
+}
+
+footer .social li a {
+    color: #fff;
+    text-align: center;
+    background-color: #00b4c6;
+    width: 40px;
+    height: 40px;
+    line-height: 40px;
+    border-radius: 5px;
+    display: inline-block;
+    font-size: 16px;
+    -webkit-transition: all 0.3s ease 0s;
+    -moz-transition: all 0.3s ease 0s;
+    -o-transition: all 0.3s ease 0s;
+    transition: all 0.3s ease 0s;
+}
+
+footer .social li a:hover {
+    background-color: #0088e8;
+    color: #fff;
+}
+
